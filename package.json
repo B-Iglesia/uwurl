@@ -1,0 +1,35 @@
+{
+  "name": "uwurl",
+  "version": "1.0.0",
+  "description": "Takes URLs and makes them KAWAII DESU~",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./npm/bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Iglesia/uwurl.git"
+  },
+  "keywords": [
+    "uwu",
+    "kawaii",
+    "link",
+    "UWU",
+    "OWO",
+    "0w0",
+    "owo"
+  ],
+  "author": "B-Iglesia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Iglesia/uwurl/issues"
+  },
+  "homepage": "https://github.com/B-Iglesia/uwurl#readme",
+  "dependencies": {
+    "install": "^0.12.2",
+    "mongodb": "^2.2.33",
+    "npm": "file:npm",
+    "shortid": "^2.2.14",
+    "valid-url": "^1.0.9"
+  }
+}
